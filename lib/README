@@ -1,0 +1,12 @@
+HUB SUB
+
+Esse projeto tem por objetivo estudar Arduino criando um hub usb para trocar os periféricos entre computadores de forma mais simples!
+
+Eu podia comprar um pronto? sim!
+Eu podia ver um projeto já existente e copiar? Sim!
+Eu podia ver outras alternativas para isso? Sim!
+
+Mas aí qual seria a graça, não é mesmo?
+
+## o projeto
+A ideia é criar um hub usb como o da imagem abaixo:
